@@ -12,5 +12,11 @@ class MainActivity : AppCompatActivity() {
         //weeeeeeeeenaaaaaaaa po shushetumaireeeeeeeeeeeee
 
 
+
+       // akjsdalskdjsldkjasldkjaslkdjaslkdj
+
+
     }
+
+
 }
